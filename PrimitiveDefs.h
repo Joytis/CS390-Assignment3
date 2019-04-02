@@ -10,7 +10,7 @@ typedef int                     CS390_INT32;
 typedef unsigned int            CS390_UINT32;
 
 typedef float                   CS390_FLOAT32;
-typedef double                  CS390_FLOAT32;
+typedef double                  CS390_FLOAT64;
 
 typedef bool                    CS390_BOOL;
 
